@@ -229,3 +229,8 @@ CLAUDE.md
 # Private teaching material (lecture plans etc.)
 teaching/
 solutions/video/
+
+# large files
+.tar
+.gz
+.aria2

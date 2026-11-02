@@ -234,3 +234,5 @@ solutions/video/
 .tar
 .gz
 .aria2
+*.gz
+*.aria2
